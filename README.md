@@ -14,7 +14,7 @@
 
 Voici une vidéo de démonstration de l'application (environnement local) présentant les fonctionnalités que j'ai développées et intégrées :
 
-[![Regarder la démo sur YouTube](https://img.youtube.com/vi/TON_ID_VIDEO_ICI/maxresdefault.jpg)]([TON_LIEN_YOUTUBE_ICI](https://youtu.be/Wx8lNIoo-Ms))
+[![Regarder la démo sur YouTube](https://img.youtube.com/vi/TON_ID_VIDEO_ICI/maxresdefault.jpg)](https://youtu.be/Wx8lNIoo-Ms?si=QaN8a2ouMpB9pR79)
 
 *(Cliquez sur l'image ci-dessus pour voir la vidéo)*
 
